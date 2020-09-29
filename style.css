@@ -15,7 +15,6 @@ body{
 
 .header{
   text-align: center;
-  text-decoration: overline #dd2c00;
 }
 
 h1{
@@ -23,6 +22,7 @@ h1{
   font-size: 6em;
   font-weight: bold;
   color: #00bcd4;
+  text-align: center;
 }
 
 h3{
@@ -30,6 +30,8 @@ h3{
   font-weight: lighter;
   color: #00bcd4;
   font-size: 2em;
+  text-align: center;
+  text-decoration: overline #dd2c00;
 }
 
 .break{
